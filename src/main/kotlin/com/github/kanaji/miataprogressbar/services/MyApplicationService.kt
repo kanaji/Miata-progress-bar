@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kanaji.miataprogressbar.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kanaji.miataprogressbar.MyBundle
 
 class MyApplicationService {
 
